@@ -1,17 +1,19 @@
 ### Olá me chamo Anderson, e seja bem vindo ao meu perfil!
 
+<div style="display: inline_block"><br>
+   📱 Contatos:
+   <a href = "mailto:fpanderson.ferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fpanderson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+</div><br>
+
 <div align="center">
   <a href="https://github.com/FpAnderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FpAnderson&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FpAnderson&layout=compact&langs_count=5&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-   <a href = "mailto:fpanderson.ferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fpanderson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>  
   <img  height="180em"  src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47yd6y7rxrb1ei474i9gofpe3rbfznarpvtsgowhd6&rid=giphy.gif&ct=g" />
-  
+  </a>
 </div>
+
   
  ##
 
