@@ -8,10 +8,11 @@
 <div style="display: inline_block"><br>
    <a href = "mailto:fpanderson.ferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fpanderson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>  
+  <img  height="180em"  src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47yd6y7rxrb1ei474i9gofpe3rbfznarpvtsgowhd6&rid=giphy.gif&ct=g" />
   
 </div>
   
-  <img  height="180em"  src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47yd6y7rxrb1ei474i9gofpe3rbfznarpvtsgowhd6&rid=giphy.gif&ct=g" />
  ##
 
 <div> 
